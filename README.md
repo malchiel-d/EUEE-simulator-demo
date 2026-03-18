@@ -1,7 +1,7 @@
 # EUEE Simulator 🚀
 
 <div align="center">
-  <img src="./assets/mobile-views/screenshot1.jpg" alt="Project Screenshot" width="800">
+  <img src="./assets/mobile-views/screenshot1.jpg" alt="Project Screenshot" width="400">
   <p><i>A lightweight, interactive exam simulator designed to help Ethiopian students prepare for the University Entrance Examination (EUEE).</i></p>
 </div>
 
@@ -23,8 +23,7 @@ live demo : [comming soon]
 
 ## 📸 Gallery
 <img src="./assets/mobile-views/screenshot2.jpg" width="400"> 
-<!--<img src="./assets/feature-2.png" width="400">
--->
+<img src="./assets/mobile-views/screenshot3.jpg" width="400">
 
 
 ---
